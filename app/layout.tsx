@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 		url: 'https://tu-dominio.com', // Reemplaza con la URL de tu página
 		images: [
 			{
-				url: './images/imagen.png', // Ruta a tu imagen
+				url: 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*EuuCS_NKfSijcNwK11xQ8g.jpeg', // Ruta a tu imagen
 				alt: 'Imagen de Bryan Vera',
 				width: 1200, // Ancho de la imagen (opcional)
 				height: 600, // Alto de la imagen (opcional)
